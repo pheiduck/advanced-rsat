@@ -1,9 +1,5 @@
 # advanced-rsat
 
-<p align="center">
-  <img src="./rast-adv.PNG">
-</p>
-
 RSAT for Windows 10 Clients with advanced features
 
 ## /!\ With the provided RSAT Package (available in Optional Features) you won't get features like DHCP or DNS /!\
@@ -20,3 +16,5 @@ Routing and Remote Access Tools. Routing and Remote Access Tools that are GUI-ba
 ### If this is still a thing download it from here:
 
 https://www.microsoft.com/de-DE/download/details.aspx?id=45520
+
+![alt text](https://github.com/pheiduck/advanced-rsat/blob/main/rsat-adv.PNG)
